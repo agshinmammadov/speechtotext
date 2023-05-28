@@ -48,8 +48,7 @@
 
   <p>
     This app is created to support the community in a dedicated direction to provide fast and efficient speech-to-text conversion.
-    It is licensed under [INSERT LICENSE NAME] (or specify if it's an open-source license).
-    Please refer to the LICENSE file for more details.
+    It is licensed under an open-source.
   </p>
 
   <h2>Getting Started</h2>
