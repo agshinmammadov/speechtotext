@@ -99,7 +99,7 @@
   <h2>Contact</h2>
 
   <p>
-    If you have any questions, suggestions, or feedback, please feel free to contact us at <a href="mailto:your-email@example.com">your-email@example.com</a>.
+    If you have any questions, suggestions, or feedback, please feel free to contact us at <a href="mailto:agshinmammadov@yandex.com">Agshin Mammadov</a>.
   </p>
 
   <h2>Disclaimer</h2>
