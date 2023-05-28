@@ -16,7 +16,7 @@ const Header = () => {
                     </a>
                 </li>
                 <li className="w-[30px]">
-                    <a href="#">
+                    <a href="https://github.com/agshinmammadov/speechtotext.git">
                         <img src={Githubicon} alt="Github" />
                     </a>
                 </li>
